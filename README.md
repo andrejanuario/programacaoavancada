@@ -1,1 +1,1 @@
-# programacaoavancada
+Estudaremos diversos padrões de projetos.
