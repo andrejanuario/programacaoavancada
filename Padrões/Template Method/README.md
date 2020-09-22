@@ -19,4 +19,4 @@
   Especifica os métodos abstratos das etapas de execução
   ApplicationClassOne/ApplicationClassTwo:
   Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass
-# 7 Sample Code:
+
