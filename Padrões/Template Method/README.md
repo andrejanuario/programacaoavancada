@@ -11,7 +11,7 @@
   Alterações no algoritmo pode ser feitas de forma genérica ou específica em cada componente específico
   Útil em cenários em que se tem gerador automático de código.
 # 5 Structure:
-<https://github.com/andrejanuario/imagens/blob/master/TemplateMethod.png>
+![alt text](https://github.com/andrejanuario/imagens/blob/master/TemplateMethod.png)
 
 # 6 Participants:
   FrameworkClass:
