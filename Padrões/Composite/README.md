@@ -11,6 +11,7 @@ Markdown
   Em estrutura hierárquica como grafo ou árvore que requer funcionalidade genérica por toda a estrutura Aplicações onde precisa agregar dados por toda hierárquias. Aplicção que     precisa tratar a composição e objetodos de maneira individuais e uniforme
 #  Structure:
   Structure Composite Basic
+  ![alt text](https://github.com/andrejanuario/imagens/blob/master/structureComposite.png)
 
 #  Participants:
   Component:
