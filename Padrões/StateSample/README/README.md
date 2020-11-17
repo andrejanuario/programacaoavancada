@@ -2,7 +2,7 @@
     Padrão StateSample
     
 # 2 Intent:
-    Permite que um objeto altere seu comportamento quando seu estado inteiro muda.
+    Permite que um objeto altere seu comportamento quando seu estado interno muda.
 # 3 Motivition:
     Permite o objeto ter diferentes estados a partir das suas informações contidas na instancia e retornar comportamentos diferentes com base nesse estado
 # 4 Applicability:
